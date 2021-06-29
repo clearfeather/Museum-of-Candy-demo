@@ -39,6 +39,11 @@ body {
     color: #EA1C2C;
 }
 
+.navbar.scrolled {
+    background: rgba(222, 192, 222, 0.9);
+    transition: background .5s;
+}
+
 #headingGroup h1 {
     font-weight: 100;
     font-size: 2.5rem;
